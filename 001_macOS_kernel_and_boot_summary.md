@@ -1,5 +1,5 @@
 
-# 🧠 Understanding macOS Boot, Kernel, Snapshot, and OS Architecture (Expanded)
+# 🧠 Understanding macOS Boot, Kernel, Snapshot, and OS Architecture
 
 ## 🔌 Boot Process Overview
 
