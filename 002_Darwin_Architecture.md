@@ -1,5 +1,5 @@
 
-#  Complete Darwin Architecture Overview (Based on Jonathan Levin's PDF)
+#  Complete Darwin Architecture Overview (Based on Jonathan Levin's macOS internals book)
 
 Darwin is the **core operating system** used by Apple in macOS, iOS, tvOS, and watchOS. It is modular, hybrid in architecture, and provides all the essential services for both user and kernel space. It blends components from Unix (BSD), Mach, and Apple's own innovations.
 
